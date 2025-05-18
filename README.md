@@ -11,29 +11,24 @@ The AI-Based Network IDS integrates advanced Artificial Intelligence techniques,
 ## System Demonstration
 
 ### Starting the IDS Server
-
 ![Starting the IDS Server on Kali](demo0.png)
-_The IDS server starting up on a Kali Linux system, displaying initialization messages and loading the ML models._
+*The IDS server starting up on a Kali Linux system, displaying initialization messages and loading the ML models.*
 
 ### Dashboard Interface
-
 ![Network IDS Dashboard](demo1.png)
-_The main dashboard interface showing real-time network traffic monitoring, statistics on normal vs. attack traffic, and a timeline chart of detected activity._
+*The main dashboard interface showing real-time network traffic monitoring, statistics on normal vs. attack traffic, and a timeline chart of detected activity.*
 
 ### Model Retraining Interface
-
 ![Model Retraining Interface](demo2.png)
-_The model retraining interface that allows customization of test/train split parameters and random state to optimize model performance._
+*The model retraining interface that allows customization of test/train split parameters and random state to optimize model performance.*
 
 ### Training Results
-
 ![Training Results](demo3.png)
-_Training results display showing the performance metrics of the retrained Decision Tree model including accuracy, precision, recall, and F1 score._
+*Training results display showing the performance metrics of the retrained Decision Tree model including accuracy, precision, recall, and F1 score.*
 
 ### Email Alert System
-
 ![Email Alert Notification](demo5.png)
-_The IDS includes an automated email alert system that sends notifications when a certain threshold of attacks is detected, providing detailed information about the threats including timestamp, source IP, destination IP, protocol, and service._
+*The IDS includes an automated email alert system that sends notifications when a certain threshold of attacks is detected, providing detailed information about the threats including timestamp, source IP, destination IP, protocol, and service.*
 
 ## Goals and Objectives
 
