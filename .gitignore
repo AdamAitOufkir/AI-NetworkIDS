@@ -1,0 +1,53 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.env
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Model files (potentially large binary files)
+# Uncomment the following line if you want to exclude model files from git
+# *.pkl
+
+# Distribution / packaging
+.Python
+dist/
+build/
+*.egg-info/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Cache directories
+.cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Email credentials and sensitive data
+# Make sure these are in your .env file instead
+email_config.json
+
+# Temporary files
+tmp/
+temp/
